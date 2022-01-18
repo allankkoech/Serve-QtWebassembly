@@ -3,7 +3,6 @@ from eventlet import wsgi
 
 
 def dispatch(environ, start_response):
-
     """
         WEBSOCKETS
     """
